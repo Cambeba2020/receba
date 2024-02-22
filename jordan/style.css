@@ -1,0 +1,29 @@
+h1{
+    color: rgb(158, 158, 158);
+    text-align: center;
+    }
+    
+    
+    h2{
+    
+    color: rgb(158, 158, 158);
+    text-align: justify;
+    
+    }
+    h3{
+        color: whitesmoke;
+        text-align: justify;
+    }
+    
+    
+    img{
+        display: block;
+        margin: 0px auto;
+       }
+       body{
+       
+        background-color: rgb(56, 56, 56);
+        background-image: url(https://i1.wp.com/multarte.com.br/wp-content/uploads/2018/12/fundo-cinza-escuro20.jpg?fit=1920%2C1200&ssl=1);
+       }
+
+    
